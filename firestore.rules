@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Enkel testversion: alle med webadressen kan læse og ændre handlelisten.
+    match /shoppingLists/{listId}/{document=**} {
+      allow read, write: if true;
+    }
+  }
+}

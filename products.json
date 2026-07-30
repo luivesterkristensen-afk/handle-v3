@@ -1,0 +1,1331 @@
+[
+  {
+    "name": "Æbler",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Pærer",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Bananer",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Appelsiner",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Citroner",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Lime",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Vindruer",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Jordbær",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Blåbær",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Hindbær",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Mango",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Ananas",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Melon",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Avocado",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Tomater",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Agurk",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Peberfrugt",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Chili",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Gulerødder",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Kartofler",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Søde kartofler",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Løg",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Rødløg",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Hvidløg",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Porre",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Broccoli",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Blomkål",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Spidskål",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Hvidkål",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Salat",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Spinat",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Champignon",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Squash",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Aubergine",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Asparges",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Majs",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Friske krydderurter",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Ingefær",
+    "category": "Frugt & grønt"
+  },
+  {
+    "name": "Rugbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Toastbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Franskbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Grovbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Boller",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Rundstykker",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Flute",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Pitabrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Naanbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Tortillawraps",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Burgerboller",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Pølsebrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Knækbrød",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Kiks",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Croissanter",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Kage",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Pizzabund",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Tærtedej",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Butterdej",
+    "category": "Brød & bager"
+  },
+  {
+    "name": "Mælk",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Fløde",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Yoghurt",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Skyr",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "A38",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Smør",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Margarine",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Æg",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Ost",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Revet ost",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Flødeost",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Hytteost",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Feta",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Mozzarella",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Parmesan",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Creme fraiche",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Kærnemælk",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Havredrik",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Mandeldrik",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Soyadrik",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Kakaomælk",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Pålægssalat",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Leverpostej",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Hummus",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Pesto",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Frisk pasta",
+    "category": "Mejeri & køl"
+  },
+  {
+    "name": "Hakket oksekød",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Hakket svinekød",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Hakket kød",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Oksekød",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Svinekød",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Kylling",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Kyllingebryst",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Kyllingelår",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Hel kylling",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Kalkun",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Bacon",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Pølser",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Medister",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Frikadeller",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Skinke",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Salami",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Kødpålæg",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Fisk",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Laks",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Torsk",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Fiskefilet",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Rejer",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Tun",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Makrel",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Muslinger",
+    "category": "Kød & fisk"
+  },
+  {
+    "name": "Frosne grøntsager",
+    "category": "Frost"
+  },
+  {
+    "name": "Frosne ærter",
+    "category": "Frost"
+  },
+  {
+    "name": "Frossen broccoli",
+    "category": "Frost"
+  },
+  {
+    "name": "Frossen spinat",
+    "category": "Frost"
+  },
+  {
+    "name": "Pommes frites",
+    "category": "Frost"
+  },
+  {
+    "name": "Kartoffelbåde",
+    "category": "Frost"
+  },
+  {
+    "name": "Frossen pizza",
+    "category": "Frost"
+  },
+  {
+    "name": "Lasagne",
+    "category": "Frost"
+  },
+  {
+    "name": "Forårsruller",
+    "category": "Frost"
+  },
+  {
+    "name": "Fiskepinde",
+    "category": "Frost"
+  },
+  {
+    "name": "Kyllingenuggets",
+    "category": "Frost"
+  },
+  {
+    "name": "Frossen fisk",
+    "category": "Frost"
+  },
+  {
+    "name": "Frosne rejer",
+    "category": "Frost"
+  },
+  {
+    "name": "Hvidløgsbrød",
+    "category": "Frost"
+  },
+  {
+    "name": "Is",
+    "category": "Frost"
+  },
+  {
+    "name": "Ispinde",
+    "category": "Frost"
+  },
+  {
+    "name": "Frosne bær",
+    "category": "Frost"
+  },
+  {
+    "name": "Frossen frugt",
+    "category": "Frost"
+  },
+  {
+    "name": "Mel",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Havregryn",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Müsli",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Cornflakes",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Ris",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Pasta",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Spaghetti",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Nudler",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Lasagneplader",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Couscous",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Bulgur",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Quinoa",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Linser",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Kikærter",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Bønner",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Hakkede tomater",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Tomatpuré",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Majs på dåse",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Tun på dåse",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Makrel i tomat",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Kokosmælk",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Bouillon",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Suppe",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Olie",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Olivenolie",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Eddike",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Salt",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Peber",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Krydderier",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Sukker",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Brun farin",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Vaniljesukker",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Bagepulver",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Gær",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Kakao",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Kaffe",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Te",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Honning",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Marmelade",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Peanutbutter",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Nutella",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Ketchup",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Remoulade",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Mayonnaise",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Sennep",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Dressing",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Soya",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Chilisauce",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Tacosauce",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Salsa",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Tortillachips",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Tacoskaller",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Rasp",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Syltede agurker",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Oliven",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Rødbeder",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Rosiner",
+    "category": "Kolonial"
+  },
+  {
+    "name": "Vand",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Danskvand",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Cola",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Sodavand",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Juice",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Saftevand",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Iste",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Energidrik",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Tonic",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Ginger ale",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Smoothie",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Proteindrik",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Alkoholfri øl",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Alkoholfri vin",
+    "category": "Drikkevarer"
+  },
+  {
+    "name": "Chips",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Popcorn",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Saltstænger",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Peanuts",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Nødder",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Mandler",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Chokolade",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Vingummi",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Lakrids",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Bolsjer",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Karameller",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Skumfiduser",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Müslibarer",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Proteinbarer",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Cookies",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Dip",
+    "category": "Snacks & slik"
+  },
+  {
+    "name": "Toiletpapir",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Køkkenrulle",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Servietter",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Lommetørklæder",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Affaldsposer",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Fryseposer",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Madpapir",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Bagepapir",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Alufolie",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Husholdningsfilm",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Opvasketabs",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Opvaskemiddel",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Afspændingsmiddel",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Vaskemiddel",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Skyllemiddel",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Pletfjerner",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Universalrengøring",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Glasrens",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Badeværelsesrens",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Toiletrens",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Kalkfjerner",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Gulvrens",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Skuresvampe",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Karklude",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Mikrofiberklude",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Gummihandsker",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Støvsugerposer",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Batterier",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Elpærer",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Tændstikker",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Stearinlys",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Fyrfadslys",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Grillkul",
+    "category": "Husholdning"
+  },
+  {
+    "name": "Shampoo",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Balsam",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Hårkur",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Hårgel",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Hårvoks",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Hårspray",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Showergel",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Håndsæbe",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Deodorant",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Tandpasta",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Tandbørste",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Mundskyl",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Tandtråd",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Ansigtscreme",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Bodylotion",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Håndcreme",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Læbepomade",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Solcreme",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Barberskum",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Barberblade",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Vatpinde",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Vatrondeller",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Bind",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Tamponer",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Bleer",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Vådservietter",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Plastre",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Smertestillende",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Næsespray",
+    "category": "Personlig pleje"
+  },
+  {
+    "name": "Hundemad",
+    "category": "Andet"
+  },
+  {
+    "name": "Kattemad",
+    "category": "Andet"
+  },
+  {
+    "name": "Hundegodbidder",
+    "category": "Andet"
+  },
+  {
+    "name": "Kattegrus",
+    "category": "Andet"
+  },
+  {
+    "name": "Fuglefrø",
+    "category": "Andet"
+  },
+  {
+    "name": "Babymad",
+    "category": "Andet"
+  },
+  {
+    "name": "Modermælkserstatning",
+    "category": "Andet"
+  },
+  {
+    "name": "Sutter",
+    "category": "Andet"
+  },
+  {
+    "name": "Fødselsdagslys",
+    "category": "Andet"
+  },
+  {
+    "name": "Gavepapir",
+    "category": "Andet"
+  },
+  {
+    "name": "Tape",
+    "category": "Andet"
+  },
+  {
+    "name": "Lim",
+    "category": "Andet"
+  },
+  {
+    "name": "Kuglepenne",
+    "category": "Andet"
+  },
+  {
+    "name": "Notesblok",
+    "category": "Andet"
+  },
+  {
+    "name": "Blomster",
+    "category": "Andet"
+  },
+  {
+    "name": "Pottemuld",
+    "category": "Andet"
+  },
+  {
+    "name": "Plantegødning",
+    "category": "Andet"
+  },
+  {
+    "name": "Isterningeposer",
+    "category": "Andet"
+  },
+{"name": "Clementiner", "category": "Frugt & grønt"},
+{"name": "Mandariner", "category": "Frugt & grønt"},
+{"name": "Grapefrugt", "category": "Frugt & grønt"},
+{"name": "Kiwi", "category": "Frugt & grønt"},
+{"name": "Ferskner", "category": "Frugt & grønt"},
+{"name": "Nektariner", "category": "Frugt & grønt"},
+{"name": "Blommer", "category": "Frugt & grønt"},
+{"name": "Kirsebær", "category": "Frugt & grønt"},
+{"name": "Vandmelon", "category": "Frugt & grønt"},
+{"name": "Honningmelon", "category": "Frugt & grønt"},
+{"name": "Passionsfrugt", "category": "Frugt & grønt"},
+{"name": "Granatæble", "category": "Frugt & grønt"},
+{"name": "Figner", "category": "Frugt & grønt"},
+{"name": "Dadler", "category": "Frugt & grønt"},
+{"name": "Rabarber", "category": "Frugt & grønt"},
+{"name": "Radiser", "category": "Frugt & grønt"},
+{"name": "Forårsløg", "category": "Frugt & grønt"},
+{"name": "Selleri", "category": "Frugt & grønt"},
+{"name": "Knoldselleri", "category": "Frugt & grønt"},
+{"name": "Pastinak", "category": "Frugt & grønt"},
+{"name": "Persillerod", "category": "Frugt & grønt"},
+{"name": "Rødbeder friske", "category": "Frugt & grønt"},
+{"name": "Grønkål", "category": "Frugt & grønt"},
+{"name": "Rosenkål", "category": "Frugt & grønt"},
+{"name": "Savoykål", "category": "Frugt & grønt"},
+{"name": "Rucola", "category": "Frugt & grønt"},
+{"name": "Icebergsalat", "category": "Frugt & grønt"},
+{"name": "Hjertesalat", "category": "Frugt & grønt"},
+{"name": "Bønnespirer", "category": "Frugt & grønt"},
+{"name": "Sukkerærter", "category": "Frugt & grønt"},
+{"name": "Sandwichbrød", "category": "Brød & bager"},
+{"name": "Fuldkornsbrød", "category": "Brød & bager"},
+{"name": "Surdejsbrød", "category": "Brød & bager"},
+{"name": "Ciabatta", "category": "Brød & bager"},
+{"name": "Bagels", "category": "Brød & bager"},
+{"name": "Mini flutes", "category": "Brød & bager"},
+{"name": "Baguette", "category": "Brød & bager"},
+{"name": "Krydderboller", "category": "Brød & bager"},
+{"name": "Teboller", "category": "Brød & bager"},
+{"name": "Kanelsnegle", "category": "Brød & bager"},
+{"name": "Wienerbrød", "category": "Brød & bager"},
+{"name": "Muffins", "category": "Brød & bager"},
+{"name": "Donuts", "category": "Brød & bager"},
+{"name": "Pandekager", "category": "Brød & bager"},
+{"name": "Vafler", "category": "Brød & bager"},
+{"name": "Drikkeyoghurt", "category": "Mejeri & køl"},
+{"name": "Koldskål", "category": "Mejeri & køl"},
+{"name": "Risalamande", "category": "Mejeri & køl"},
+{"name": "Fromage frais", "category": "Mejeri & køl"},
+{"name": "Mascarpone", "category": "Mejeri & køl"},
+{"name": "Ricotta", "category": "Mejeri & køl"},
+{"name": "Brie", "category": "Mejeri & køl"},
+{"name": "Camembert", "category": "Mejeri & køl"},
+{"name": "Cheddar", "category": "Mejeri & køl"},
+{"name": "Gouda", "category": "Mejeri & køl"},
+{"name": "Blåskimmelost", "category": "Mejeri & køl"},
+{"name": "Danbo", "category": "Mejeri & køl"},
+{"name": "Halloumi", "category": "Mejeri & køl"},
+{"name": "Salatost", "category": "Mejeri & køl"},
+{"name": "Grillost", "category": "Mejeri & køl"},
+{"name": "Kvark", "category": "Mejeri & køl"},
+{"name": "Mælkedrik", "category": "Mejeri & køl"},
+{"name": "Kaffefløde", "category": "Mejeri & køl"},
+{"name": "Piskefløde", "category": "Mejeri & køl"},
+{"name": "Madlavningsfløde", "category": "Mejeri & køl"},
+{"name": "Kalvekød", "category": "Kød & fisk"},
+{"name": "Lammekød", "category": "Kød & fisk"},
+{"name": "And", "category": "Kød & fisk"},
+{"name": "Andebryst", "category": "Kød & fisk"},
+{"name": "Kanin", "category": "Kød & fisk"},
+{"name": "Flæskesteg", "category": "Kød & fisk"},
+{"name": "Nakkekoteletter", "category": "Kød & fisk"},
+{"name": "Koteletter", "category": "Kød & fisk"},
+{"name": "Mørbrad", "category": "Kød & fisk"},
+{"name": "Steaks", "category": "Kød & fisk"},
+{"name": "Roastbeef", "category": "Kød & fisk"},
+{"name": "Hamburgerryg", "category": "Kød & fisk"},
+{"name": "Rullepølse", "category": "Kød & fisk"},
+{"name": "Spegepølse", "category": "Kød & fisk"},
+{"name": "Pepperoni", "category": "Kød & fisk"},
+{"name": "Chorizo", "category": "Kød & fisk"},
+{"name": "Cocktailpølser", "category": "Kød & fisk"},
+{"name": "Kyllingepålæg", "category": "Kød & fisk"},
+{"name": "Fiskefars", "category": "Kød & fisk"},
+{"name": "Rødspætte", "category": "Kød & fisk"},
+{"name": "Frossen blomkål", "category": "Frost"},
+{"name": "Frossen majs", "category": "Frost"},
+{"name": "Frosne bønner", "category": "Frost"},
+{"name": "Frosne wokgrøntsager", "category": "Frost"},
+{"name": "Frossen mango", "category": "Frost"},
+{"name": "Frossen ananas", "category": "Frost"},
+{"name": "Frosne kartofler", "category": "Frost"},
+{"name": "Rösti", "category": "Frost"},
+{"name": "Kartoffelkroketter", "category": "Frost"},
+{"name": "Frosne pandekager", "category": "Frost"},
+{"name": "Frosne vafler", "category": "Frost"},
+{"name": "Frossen lasagne", "category": "Frost"},
+{"name": "Frosne frikadeller", "category": "Frost"},
+{"name": "Frossen kylling", "category": "Frost"},
+{"name": "Frosne burgere", "category": "Frost"},
+{"name": "Grødris", "category": "Kolonial"},
+{"name": "Basmatiris", "category": "Kolonial"},
+{"name": "Jasminris", "category": "Kolonial"},
+{"name": "Risnudler", "category": "Kolonial"},
+{"name": "Ægnudler", "category": "Kolonial"},
+{"name": "Makaroni", "category": "Kolonial"},
+{"name": "Penne", "category": "Kolonial"},
+{"name": "Fusilli", "category": "Kolonial"},
+{"name": "Tagliatelle", "category": "Kolonial"},
+{"name": "Gnocchi", "category": "Kolonial"},
+{"name": "Perlebyg", "category": "Kolonial"},
+{"name": "Perlespelt", "category": "Kolonial"},
+{"name": "Polenta", "category": "Kolonial"},
+{"name": "Kartoffelmos pulver", "category": "Kolonial"},
+{"name": "Pandekagemix", "category": "Kolonial"},
+{"name": "Kagemix", "category": "Kolonial"},
+{"name": "Hvedekerner", "category": "Kolonial"},
+{"name": "Solsikkekerner", "category": "Kolonial"},
+{"name": "Græskarkerner", "category": "Kolonial"},
+{"name": "Sesamfrø", "category": "Kolonial"},
+{"name": "Chiafrø", "category": "Kolonial"},
+{"name": "Hørfrø", "category": "Kolonial"},
+{"name": "Pinjekerner", "category": "Kolonial"},
+{"name": "Valnødder", "category": "Kolonial"},
+{"name": "Cashewnødder", "category": "Kolonial"},
+{"name": "Hasselnødder", "category": "Kolonial"},
+{"name": "Pistacienødder", "category": "Kolonial"},
+{"name": "Tørrede abrikoser", "category": "Kolonial"},
+{"name": "Tørrede tranebær", "category": "Kolonial"},
+{"name": "Svesker", "category": "Kolonial"},
+{"name": "Frugtmos", "category": "Kolonial"},
+{"name": "Æblemos", "category": "Kolonial"},
+{"name": "Pærer på dåse", "category": "Kolonial"},
+{"name": "Ananas på dåse", "category": "Kolonial"},
+{"name": "Ferskner på dåse", "category": "Kolonial"},
+{"name": "Kidneybønner", "category": "Kolonial"},
+{"name": "Sorte bønner", "category": "Kolonial"},
+{"name": "Hvide bønner", "category": "Kolonial"},
+{"name": "Baked beans", "category": "Kolonial"},
+{"name": "Grønne linser", "category": "Kolonial"},
+{"name": "Røde linser", "category": "Kolonial"},
+{"name": "Fond", "category": "Kolonial"},
+{"name": "Karrypasta", "category": "Kolonial"},
+{"name": "Tahin", "category": "Kolonial"},
+{"name": "Teriyakisauce", "category": "Kolonial"},
+{"name": "Worcestersauce", "category": "Kolonial"},
+{"name": "Fiskesauce", "category": "Kolonial"},
+{"name": "Barbecuesauce", "category": "Kolonial"},
+{"name": "Bearnaisesauce", "category": "Kolonial"},
+{"name": "Brun sovs", "category": "Kolonial"},
+{"name": "Appelsinjuice", "category": "Drikkevarer"},
+{"name": "Æblejuice", "category": "Drikkevarer"},
+{"name": "Multijuice", "category": "Drikkevarer"},
+{"name": "Tomatjuice", "category": "Drikkevarer"},
+{"name": "Limonade", "category": "Drikkevarer"},
+{"name": "Sportsdrik", "category": "Drikkevarer"},
+{"name": "Kokosvand", "category": "Drikkevarer"}
+]
