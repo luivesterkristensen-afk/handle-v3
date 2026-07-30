@@ -7,10 +7,10 @@ const APP_SHELL = [
   "./firebase-config.js",
   "./products.json",
   "./manifest.json",
-  "./icons/favicon-32-full-bleed.png",
-  "./icons/apple-touch-icon-full-bleed.png",
-  "./icons/icon-192-full-bleed.png",
-  "./icons/icon-512-full-bleed.png"
+  "./favicon-32-full-bleed.png",
+"./apple-touch-icon-full-bleed.png",
+"./icon-192-full-bleed.png",
+"./icon-512-full-bleed.png"
 ];
 const CACHEABLE_EXTERNAL_HOSTS = new Set([
   "fonts.googleapis.com",
